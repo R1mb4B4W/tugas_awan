@@ -1,0 +1,12 @@
+{
+  "name": "azure-paas-hello-world",
+  "version": "1.0.0",
+  "description": "A simple Node.js app for Azure App Service PaaS demo.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js" 
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
